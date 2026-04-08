@@ -23,12 +23,6 @@ This project showcases a stylish UI design for a coffee brand with smooth animat
 
 ---
 
-## 📸 Preview
-
-(Add screenshots here later)
-
----
-
 ## 📂 Project Structure
 
 ```
